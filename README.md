@@ -1,4 +1,5 @@
 <b>Expense Tracker</b>
+<br>
  A Expense Tracker App using Vanilla JavaScript.
 
  <b> Link for the Live Demo of Project </b>
