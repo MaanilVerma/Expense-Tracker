@@ -1,2 +1,2 @@
-# Expense Tracker
- A Expense Tracker App using Vanilla JavaScript
+<b>Expense Tracker</b>
+ A Expense Tracker App using Vanilla JavaScript.
